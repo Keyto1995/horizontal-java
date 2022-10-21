@@ -23,3 +23,6 @@ $ java -jar horizontal-0.0.1-SNAPSHOT.jar --spring.profiles.active=dev
 # prod
 $ java -jar horizontal-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod
 ```
+
+- [x] /ping
+- [x] /clientIP

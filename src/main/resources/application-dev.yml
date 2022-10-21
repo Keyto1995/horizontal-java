@@ -1,3 +1,4 @@
 logging:
   level:
     web: DEBUG
+    top.keyto: DEBUG
